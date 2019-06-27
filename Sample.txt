@@ -1,4 +1,4 @@
-Branch 1
+Branch 2(Created another branch)
 
 This is just a file i'm using to learn how Github and Git works
 Now i added a second a line to this file using edit option
