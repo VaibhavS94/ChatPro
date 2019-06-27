@@ -1,0 +1,1 @@
+This is just a file i'm using to learn how Github and Git works
