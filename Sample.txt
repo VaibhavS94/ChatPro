@@ -3,3 +3,5 @@ Branch 2(Created another branch)
 This is just a file i'm using to learn how Github and Git works
 Now i added a second a line to this file using edit option
 This is just an another commit to see how things work
+
+Made some changes after the issue
